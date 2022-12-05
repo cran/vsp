@@ -1,7 +1,7 @@
 Type: Package
 Package: vsp
 Title: Vintage Sparse PCA for Semi-Parametric Factor Analysis
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Karl", "Rohe", , "karlrohe@stat.wisc.edu", role = "aut"),
     person("Muzhe", "Zeng", , "mzeng6@wisc.edu", role = "aut"),
@@ -21,17 +21,17 @@ Depends: R (>= 3.1)
 Imports: ggplot2, glue, invertiforms, LRMF3, magrittr, Matrix, rlang,
         RSpectra, stats, tibble, withr
 Suggests: covr, dplyr, GGally, igraph, igraphdata, knitr, purrr,
-        rmarkdown, scales, testthat, tidygraph, tidyr
+        rmarkdown, scales, testthat (>= 3.0.0), tidygraph, tidyr
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2022-02-09 21:52:50 UTC; alex
+Packaged: 2022-12-04 21:09:56 UTC; alex
 Author: Karl Rohe [aut],
   Muzhe Zeng [aut],
   Alex Hayes [aut, cre, cph] (<https://orcid.org/0000-0002-4985-5160>),
   Fan Chen [aut]
 Maintainer: Alex Hayes <alexpghayes@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-02-10 19:30:02 UTC
+Date/Publication: 2022-12-05 16:00:02 UTC
