@@ -1,7 +1,7 @@
-adb8e5a141be00eca492e463df37f833 *DESCRIPTION
+be95f6609317fc1765f0f09775d9fe9d *DESCRIPTION
 8c054731d3be18bc94eecff6d950d9dd *LICENSE
 861e961f64834f420bec75a5a9da6d48 *NAMESPACE
-97474f5f2fb32b8d945120140030e233 *NEWS.md
+0622cfb2b6e0621dd5b185dd2c73db63 *NEWS.md
 a6e6b6651af12798a46258189210a3d4 *R/accessors.R
 4ec6ddf6c6072027127c6e0c4823d979 *R/bff.R
 144156167578cd8dbab537471714c2ad *R/object.R
@@ -10,10 +10,10 @@ bd4fae50dee42fed66e506a2966cdd12 *R/utils.R
 a55314988502ac400bc99d5fab8c74ba *R/vsp-package.R
 f1218e7a0298df7d0f5b56fcde3bcd84 *R/vsp.R
 31224967cfa590070ee05a68f1c513e9 *README.md
-f44dfd0e9ecfa9af1a54239690b09239 *build/vignette.rds
+e64043490c1158e8b86dbd78ee01e0a8 *build/vignette.rds
 5e270ae6034b339c2a13d20a5f7d2dec *inst/doc/bff.R
 989c4df3dd4abcf01366dcb72fc274e6 *inst/doc/bff.Rmd
-af52b0297df566fce9abb4bb4414285e *inst/doc/bff.html
+a2fc7a24ac4c370a9b5bd09b7800b3f3 *inst/doc/bff.html
 effe93c49f38522c3022936e21288cad *man/bff.Rd
 93ca56f51ab00afbab6a02d1cc139987 *man/bind_varimax_z.Rd
 ff2883b6f285e42da20635c48254a19c *man/figures/README-unnamed-chunk-1-1.png
